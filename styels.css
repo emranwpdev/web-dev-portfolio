@@ -38,7 +38,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 0px 200px;
+    margin: 0px 120px;
 }
 .nav-title{
     font-weight:800;
@@ -58,19 +58,21 @@ nav li a{
 .banner{
     display: flex;
     justify-content: space-between;
-    margin: 0 35px 0 200px;
+    margin: 0 35px 0 120px;
 }
 .banner-content{
-    max-width: 850px;
+    max-width: 580px;
 }
 .banner-greetings{
     font-weight: 600;
     font-size: 45px;
+    gap: 0px;
 
 }
 .banner-title{
     font-weight: bold;
-    font-size: 85px;
+    font-size: 60px;
+    gap: 0px;
 }
 .banner-description{
     font-size: 18px;
