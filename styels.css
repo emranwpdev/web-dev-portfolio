@@ -175,3 +175,28 @@ nav li a{
 .section-title{
     text-align: center;
 }
+/* Footer styles */
+footer{
+    display: flex;
+    padding: 130px 230px;
+    gap: 100px;
+}
+.footer-title{
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+}
+.footer-column{
+    width: 50%;
+}
+footer input[type="text"], footer input[type="email"], footer textarea{
+    height: 64px;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    display: block;
+    border-radius: 5px;
+    border: none;
+    background-color: white;
+
+}
