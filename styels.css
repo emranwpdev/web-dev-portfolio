@@ -200,6 +200,12 @@ footer input[type="text"], footer input[type="email"], footer textarea{
     background-color: white;
 
 }
-.social a{
-    gap: 20px;
+.social{
+    margin-left: 20px;
+    width: 50px;
+    height: 50px;
+    border: none;
+    border-radius: 50%;
+    margin-top: 30px;
 }
+
